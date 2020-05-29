@@ -6,7 +6,7 @@ you are prompted for it.
 ## Install
 
 ```bash
-git clone git://github.com/kevinburke/sshpass.git
+git clone git://github.com/degagne/sshpass.git
 cd sshpass
 ./configure
 make && make install
@@ -17,7 +17,3 @@ make && make install
 This repository is a mirror of http://sourceforge.net/projects/sshpass/develop
 
 Pull requests will not be accepted
-
-##### Maintainers
-
-kevin burke <kev+sshpass@inburke.com>
